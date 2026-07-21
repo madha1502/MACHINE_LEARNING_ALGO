@@ -1,3 +1,4 @@
+| Day-01 | Linear Regression | Supervised Learning | [View Folder](Supervised_Learning/Linear_Regression/) |
 # Machine Learning Daily Algorithms Log 🧠
 
 My daily repository for Machine Learning algorithms, mathematical foundations, notes, and implementations.
