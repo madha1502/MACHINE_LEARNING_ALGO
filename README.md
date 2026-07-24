@@ -1,3 +1,4 @@
+| Day-02 | Logistic Regression | Supervised Learning | [View Folder](Logistic_Regression/) |
 | Day-01 | Linear Regression | Supervised Learning | [View Folder](Supervised_Learning/Linear_Regression/) |
 # Machine Learning Daily Algorithms Log 🧠
 
